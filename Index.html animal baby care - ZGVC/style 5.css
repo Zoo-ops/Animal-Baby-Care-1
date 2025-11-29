@@ -1,0 +1,51 @@
+/* Fondo general */
+body {
+background-color: #FAF8D7;
+font-family: 'Poppins', sans-serif;
+color: #333;
+text-align: center;
+}
+
+table, th, td {
+  border: 1px solid #d7d233;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(233, 119, 5);
+}
+
+/* mouse over link */
+a:hover {
+  color: #F5C827;
+}
+
+/* selected link */
+a:active {
+  color: rgb(34, 0, 255);
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(250, 185, 34);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(243, 92, 33);
+}
+
+/* mouse over link */
+a:hover {
+  color: #2761f5;
+}
+
+/* selected link */
+a:active {
+  color: rgb(0, 255, 251);
+}
